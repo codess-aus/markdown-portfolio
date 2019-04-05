@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning **Python** for the *100DaysofCode* Challenge.
+I am awesome at **Building Community**
+I love speaking at *Conferences*
